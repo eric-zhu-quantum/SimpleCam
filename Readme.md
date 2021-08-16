@@ -6,7 +6,9 @@
 
   Dependencies: 
   pip install opencv-python
+  
   not sure if opencv-python also includes numpy as dependency... 
+  
   ! do not use     conda install opencv (does not work properly)
   
 use the following keystrokes for :
