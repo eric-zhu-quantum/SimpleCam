@@ -1,7 +1,7 @@
   # Simple WebCam capture
   ![InAction](https://github.com/eric-zhu-quantum/SimpleCam/blob/main/2Cams_Desktop.png)
-  can zoom in and rotate image
-  and save a snapshot of image to a png file
+  Capture video from webcam, zoom in and rotate image
+  and save a snapshot of a png file
 
   Developed using Python 3.8 (Anaconda), on Windows 10
 
