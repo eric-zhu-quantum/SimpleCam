@@ -1,10 +1,10 @@
-  #Simple WebCam capture
+  # Simple WebCam capture
   can zoom in and rotate image
   and save a snapshot of image to a png file
 
   Developed using Python 3.8 (Anaconda), on Windows 10
 
-  Dependencies: 
+  ## Dependencies: 
   pip install opencv-python
   
   not sure if opencv-python also includes numpy as dependency... 
