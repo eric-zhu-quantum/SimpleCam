@@ -14,13 +14,15 @@ numpy             1.21.1
 use the following keystrokes for :
 - r - rotate 90 degrees 
 - m - mirror image  
+- c - save image as displayed on screen
 - left mouse button to select Zoom region (ZoomBox) 
   -->this only works if image is NOT mirrored or rotated
 - right mouse button to exit Zoom
-- c - save image as displayed on screen
+
 
 You can start multiple instances at the (Windows) terminal:
 > start python SimpleCam_Final.py 1 cam1
+
 > start python SimpleCam_Final.py 2 cam2
 
 where 1,2 are the indices of the capture devices.
