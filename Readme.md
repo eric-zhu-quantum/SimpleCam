@@ -5,11 +5,9 @@
   Developed using Python 3.8 (Anaconda), on Windows 10
 
   ## Dependencies: 
-  pip install opencv-python
-  
-  not sure if opencv-python also includes numpy as dependency... 
-  
-  ! do not use     conda install opencv (does not work properly)
+opencv-python     4.5.3.56
+numpy             1.21.1
+
 
 ## Instructions: 
 use the following keystrokes for :
