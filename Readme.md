@@ -6,6 +6,7 @@
 
   ## Dependencies: 
 opencv-python     4.5.3.56
+
 numpy             1.21.1
 
 
