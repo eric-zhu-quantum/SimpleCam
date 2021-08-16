@@ -1,4 +1,4 @@
-  Simple WebCam capture
+  #Simple WebCam capture
   can zoom in and rotate image
   and save a snapshot of image to a png file
 
