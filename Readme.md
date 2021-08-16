@@ -12,8 +12,8 @@
   ! do not use     conda install opencv (does not work properly)
   
 use the following keystrokes for :
-- r - rotate 90 degrees (done)
-- m - mirror image (done)
+- r - rotate 90 degrees 
+- m - mirror image  
 - left mouse button to select Zoom region (ZoomBox) 
   -->this only works if image is NOT mirrored or rotated
 - right mouse button to exit Zoom
