@@ -12,6 +12,14 @@ numpy             1.21.1
 
 
 ## Instructions: 
+You can start multiple instances at the (Windows) terminal:
+> start python SimpleCam_Final.py 1 cam1
+
+> start python SimpleCam_Final.py 2 cam2
+
+where 1,2 are the indices of the capture devices.
+The index starts at 0 if you have at least 1 USB camera connected to your computer.
+
 use the following keystrokes for :
 - r - rotate 90 degrees 
 - m - mirror image  
@@ -21,12 +29,7 @@ use the following keystrokes for :
 - right mouse button to exit Zoom
 
 
-You can start multiple instances at the (Windows) terminal:
-> start python SimpleCam_Final.py 1 cam1
 
-> start python SimpleCam_Final.py 2 cam2
-
-where 1,2 are the indices of the capture devices.
 
 TODO:
 - do the math so that ZoomBox can be selected even when image is rotated/mirrored
