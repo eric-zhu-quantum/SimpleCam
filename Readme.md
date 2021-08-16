@@ -10,7 +10,8 @@
   not sure if opencv-python also includes numpy as dependency... 
   
   ! do not use     conda install opencv (does not work properly)
-  
+
+## Instructions: 
 use the following keystrokes for :
 - r - rotate 90 degrees 
 - m - mirror image  
@@ -18,6 +19,12 @@ use the following keystrokes for :
   -->this only works if image is NOT mirrored or rotated
 - right mouse button to exit Zoom
 - c - save image as displayed on screen
+
+You can start multiple instances at the (Windows) terminal:
+> start python SimpleCam_Final.py 1 cam1
+> start python SimpleCam_Final.py 2 cam2
+
+where 1,2 are the indices of the capture devices.
 
 TODO:
 - do the math so that ZoomBox can be selected even when image is rotated/mirrored
